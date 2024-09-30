@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    background-color: #f3f3f3;;
+}
+h1{
+    text-align: center;
+    background-color: #000018;
+    border: 2px solid black;
+    border-radius: 15px;
+    color: whitesmoke;
+}
+h2{
+    border-radius: 9px;
+    border: 2px solid white;
+    width: 162px;
+    background-color: white;
+}
+.bestseller{
+    background-color: #29cf574f;
+    width: 195px;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+ul li{
+    list-style: none;
+    line-height: 40px;
+    background-color:  rgb(189 251 233);;
+    width: 195px;
+    border-radius: 10px;
+}
+main{
+    box-shadow: 20px 18px 20px 0px;
+    background-color: #17f04d4f;
+    padding: 10px 0px 10px 25px;
+    border-radius: 35px
+}
+.sid{
+    font-weight: bolder;
+}
+p{
+    font-style: italic;
+    text-align: center;
+    line-height: 50px;
+    color: currentcolor;
+}
+
